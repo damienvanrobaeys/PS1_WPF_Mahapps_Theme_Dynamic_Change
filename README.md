@@ -3,5 +3,6 @@
 
 
 > *View the full blog post here*
+http://www.systanddeploy.com/2019/05/mahapps-dynamically-change-main-theme.html
 
 
